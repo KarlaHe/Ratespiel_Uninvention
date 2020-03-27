@@ -7,7 +7,7 @@ public class Ratespiel
 {
     private int zahl;
     private int eingabe;
-    private boolean test = true;
+    private boolean test = false;
     
     /* public void getZahl(){}
     
